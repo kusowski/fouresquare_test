@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Foursquare</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_four_square">FourSquareActivity</string>
+    <string name="no_address">Brak adresu</string>
+    <string name="address">Adres</string>
+
+</resources>
